@@ -1,0 +1,337 @@
+﻿<Window x:Class="StockOptimize.View.busquedaView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StockOptimize.View"
+        mc:Ignorable="d"
+        Title="busquedaView" Height="1080" Width="1920">
+    <Border>
+        <Border.Background>
+            <LinearGradientBrush StartPoint="0,1" EndPoint="1,0">
+                <GradientStop Color="#060531" Offset="0"/>
+                <GradientStop Color="#1B1448" Offset="1"/>
+            </LinearGradientBrush>
+        </Border.Background>
+
+        <Grid>
+            <!-- Definir la disposición de las filas -->
+            <Grid.RowDefinitions>
+                <RowDefinition Height="70"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <!-- Botón de Cerrar Sesión -->
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="140"/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="140"/>
+                </Grid.ColumnDefinitions>
+
+                <Button Grid.Column="2"
+                        Content="Cerrar Sesión"
+                        FontFamily="Montserrat"
+                        Margin="0,10,10,0"
+                        Foreground="White"
+                        Name="btnCerrarSesion"
+                        Cursor="Hand"
+                        Click="btnCerrarSesion_Click">
+                    <Button.Style>
+                        <Style TargetType="Button">
+                            <Setter Property="Background" Value="#462AD8"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#28AEED"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+
+                    <Button.Template>
+                        <ControlTemplate TargetType="Button">
+                            <Border Width="100" Height="50"
+                            CornerRadius="20"
+                            Background="{TemplateBinding Background}">
+                                <ContentPresenter VerticalAlignment="Center"
+                                          HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+                <Button Grid.Column="0"
+                        Content="Volver"
+                        FontFamily="Montserrat"
+                        Margin="0,10,10,0"
+                        Foreground="White"
+                        Name="btnVolver"
+                        Cursor="Hand"
+                        Click="btnVolver_Click">
+                    <Button.Style>
+                        <Style TargetType="Button">
+                            <Setter Property="Background" Value="#462AD8"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#28AEED"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+
+                    <Button.Template>
+                        <ControlTemplate TargetType="Button">
+                            <Border Width="100" Height="50"
+                            CornerRadius="20"
+                            Background="{TemplateBinding Background}">
+                                <ContentPresenter VerticalAlignment="Center"
+                                          HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+            </Grid>
+
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="616"/>
+                </Grid.ColumnDefinitions>
+
+                <!--Acá  Poner la Lista Principal-->
+
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="150"/>
+                        <RowDefinition/>
+                        <RowDefinition Height="200"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid Grid.Row="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="200"/>
+                            <ColumnDefinition Width="500"/>
+                            <ColumnDefinition Width="auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock Grid.Column="0"
+                                   Text="Buscar"
+                                   Foreground="White"
+                                   VerticalAlignment="Bottom"
+                                   HorizontalAlignment="Right"
+                                   FontSize="35"
+                                   FontFamily="Montserrat" Margin="0,0,0,7"/>
+
+                        <TextBox Grid.Column="1" Margin="15,102,10,9"
+                                 Background="Transparent"
+                                 FontFamily="Montserrat"
+                                 FontSize="20"
+                                 Foreground="White"
+                                 VerticalContentAlignment="Center"
+                                 Name="txtBusqueda"
+                                 HorizontalContentAlignment="Stretch"/>
+
+                        <Button Grid.Column="2"
+                                Content="Buscar"
+                                VerticalAlignment="Top"
+                                Foreground="White"
+                                FontFamily="Montserrat" 
+                                Height="50" Margin="0,95,0,0"
+                                Cursor="Hand"
+                                Name="btnBuscar"
+                                Click="btnBuscar_Click">
+
+                            <Button.Style>
+                                <Style TargetType="Button">
+                                    <Setter Property="Background" Value="#462AD8"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="#28AEED"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border Width="100" Height="50"
+                                            CornerRadius="20"
+                                            Background="{TemplateBinding Background}">
+                                        <ContentPresenter VerticalAlignment="Center"
+                                          HorizontalAlignment="Center"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+
+                        </Button>
+
+                    </Grid>
+                    
+                    <!--Acá poner la lista-->
+                    <Border Grid.Row="1" BorderThickness="2" CornerRadius="10"
+                            Margin="15,0,0,0">
+                        <Border.BorderBrush>
+                            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                <GradientStop Color="#462AD8" Offset="0"/>
+                                <GradientStop Color="#DA34AE" Offset="0.75"/>
+                                <GradientStop Color="#8A16C1" Offset="1"/>
+                            </LinearGradientBrush>
+                        </Border.BorderBrush>
+
+                        <DataGrid x:Name="dataGrid" Margin="2,10,2,2" AutoGenerateColumns="True"
+                                      HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+                                      HorizontalContentAlignment="Center" Background="Transparent"
+                                      HeadersVisibility="Column" CanUserResizeColumns="False"
+                                      CanUserReorderColumns="False" BorderThickness="0"
+                                      IsReadOnly="True" SelectionMode="Single"
+                                      MouseDoubleClick="lbListaNombres_MouseDoubleClick">
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="DataGridColumnHeader">
+                                    <Setter Property="Background" Value="#462AD8"/>
+                                    <Setter Property="Foreground" Value="White"/>
+                                    <Setter Property="FontFamily" Value="Montserrat"/>
+                                    <Setter Property="FontSize" Value="20"/>
+                                    <Setter Property="Height" Value="40"/>
+                                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                                </Style>
+                            </DataGrid.ColumnHeaderStyle>
+                            <DataGrid.RowStyle>
+                                <Style TargetType="DataGridRow">
+                                    <Setter Property="Background" Value="Transparent"/>
+                                </Style>
+                            </DataGrid.RowStyle>
+                            <DataGrid.CellStyle>
+                                <Style TargetType="DataGridCell">
+                                    <Setter Property="FontSize" Value="25"/>
+                                    <Setter Property="Foreground" Value="White"/>
+                                </Style>
+                            </DataGrid.CellStyle>
+                        </DataGrid>
+                    </Border>
+                    
+                    
+                    <!--Boton de Nuevo-->
+                    <Button Grid.Row="2"
+                            Content="Nuevo"
+                            Foreground="White"
+                            FontFamily="Montserrat"
+                            FontSize="30"
+                            HorizontalAlignment="Left"
+                            VerticalAlignment="Top"
+                            Margin="100,20,0,0"
+                            Name="btnNuevo"
+                            Cursor="Hand"
+                            Click="btnNuevo_Click">
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="#462AD8"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#28AEED"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="200" Height="100"
+                                        CornerRadius="10"
+                                        Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+
+                    <Button Grid.Row="2"
+                            Content="Actualizar"
+                            Foreground="White"
+                            FontFamily="Montserrat"
+                            FontSize="30"
+                            HorizontalAlignment="Left"
+                            VerticalAlignment="Top"
+                            Margin="400,20,0,0"
+                            Name="btnActualizar"
+                            Cursor="Hand"
+                            Click="btnActualizar_Click">
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="#462AD8"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#28AEED"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="200" Height="100"
+                                        CornerRadius="10"
+                                        Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+
+
+                </Grid>
+
+
+                <!-- Acá poner la lista con Características-->
+
+                <Grid Grid.Column="1">
+
+                    <Border BorderThickness="2" CornerRadius="10"
+                            VerticalAlignment="Stretch"
+                            Margin="50">
+                        <Border.BorderBrush>
+                            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                <GradientStop Color="#462AD8" Offset="0"/>
+                                <GradientStop Color="#DA34AE" Offset="0.75"/>
+                                <GradientStop Color="#8A16C1" Offset="1"/>
+                            </LinearGradientBrush>
+                        </Border.BorderBrush>
+
+                        <ListBox Background="Transparent"
+                                 BorderThickness="0"
+                                 Margin="10"
+                                 Name="lbCaracteristicas"
+                                 VerticalAlignment="Stretch"
+                                 HorizontalContentAlignment="Left" d:ItemsSource="{d:SampleData ItemCount=5}">
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <Grid VerticalAlignment="Stretch"
+                                          HorizontalAlignment="Left">
+
+                                        <TextBox   Text="{Binding característica}"
+                                                   HorizontalAlignment="Center"
+                                                   Foreground="White"
+                                                   FontSize="30"
+                                                   Margin="20,30,20,0"
+                                                   Background="Transparent"
+                                                   Width="440"
+                                                   Height="70"
+                                                   HorizontalContentAlignment="Center"/>
+
+                                    </Grid>
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+
+                        </ListBox>
+                        
+
+                    </Border>
+
+
+                </Grid>
+
+
+            </Grid>
+        </Grid>
+    </Border>
+</Window>

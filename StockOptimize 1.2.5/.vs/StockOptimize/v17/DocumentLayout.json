@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|c:\\users\\alvar\\onedrive\\escritorio\\proyecto\\stockoptimize 1.2.4\\stockoptimize 1.2.4\\stockoptimize\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|solutionrelative:stockoptimize\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\stockoptimize\\view\\tabladatosview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|solutionrelative:stockoptimize\\view\\tabladatosview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\stockoptimize\\view\\registrar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|solutionrelative:stockoptimize\\view\\registrar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\stockoptimize\\view\\registrar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|solutionrelative:stockoptimize\\view\\registrar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\stockoptimize\\view\\crearbasesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|solutionrelative:stockoptimize\\view\\crearbasesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\stockoptimize\\view\\busquedaview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|solutionrelative:stockoptimize\\view\\busquedaview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\stockoptimize\\view\\basedatosview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|solutionrelative:stockoptimize\\view\\basedatosview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\stockoptimize\\view\\basedatosview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|solutionrelative:stockoptimize\\view\\basedatosview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\stockoptimize\\view\\funciones\\variables_staticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|solutionrelative:stockoptimize\\view\\funciones\\variables_staticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\stockoptimize\\view\\funciones\\tablas_excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|solutionrelative:stockoptimize\\view\\funciones\\tablas_excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\stockoptimize\\view\\funciones\\registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|solutionrelative:stockoptimize\\view\\funciones\\registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\stockoptimize\\view\\funciones\\eliminartabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|solutionrelative:stockoptimize\\view\\funciones\\eliminartabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\stockoptimize\\view\\funciones\\creartabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|solutionrelative:stockoptimize\\view\\funciones\\creartabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\stockoptimize\\view\\funciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|solutionrelative:stockoptimize\\view\\funciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\stockoptimize\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|solutionrelative:stockoptimize\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\stockoptimize\\view\\crearbasesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|solutionrelative:stockoptimize\\view\\crearbasesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\stockoptimize\\view\\tabladatosview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|solutionrelative:stockoptimize\\view\\tabladatosview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registrar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\Registrar.xaml.cs",
+              "RelativeDocumentMoniker": "StockOptimize\\View\\Registrar.xaml.cs",
+              "ToolTip": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\Registrar.xaml.cs",
+              "RelativeToolTip": "StockOptimize\\View\\Registrar.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAwwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T08:12:30.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "busquedaView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\busquedaView.xaml.cs",
+              "RelativeDocumentMoniker": "StockOptimize\\View\\busquedaView.xaml.cs",
+              "ToolTip": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\busquedaView.xaml.cs",
+              "RelativeToolTip": "StockOptimize\\View\\busquedaView.xaml.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAgwGsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T08:05:45.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tablas_excel.cs",
+              "DocumentMoniker": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\Funciones\\Tablas_excel.cs",
+              "RelativeDocumentMoniker": "StockOptimize\\View\\Funciones\\Tablas_excel.cs",
+              "ToolTip": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\Funciones\\Tablas_excel.cs",
+              "RelativeToolTip": "StockOptimize\\View\\Funciones\\Tablas_excel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T08:00:33.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "baseDatosView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\baseDatosView.xaml.cs",
+              "RelativeDocumentMoniker": "StockOptimize\\View\\baseDatosView.xaml.cs",
+              "ToolTip": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\baseDatosView.xaml.cs",
+              "RelativeToolTip": "StockOptimize\\View\\baseDatosView.xaml.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAADwv4MAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:39:16.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "baseDatosView.xaml",
+              "DocumentMoniker": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\baseDatosView.xaml",
+              "RelativeDocumentMoniker": "StockOptimize\\View\\baseDatosView.xaml",
+              "ToolTip": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\baseDatosView.xaml",
+              "RelativeToolTip": "StockOptimize\\View\\baseDatosView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-09T06:39:14.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "crearBasesView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\crearBasesView.xaml.cs",
+              "RelativeDocumentMoniker": "StockOptimize\\View\\crearBasesView.xaml.cs",
+              "ToolTip": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\crearBasesView.xaml.cs",
+              "RelativeToolTip": "StockOptimize\\View\\crearBasesView.xaml.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAwwIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T03:38:29.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registrar.xaml",
+              "DocumentMoniker": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\Registrar.xaml",
+              "RelativeDocumentMoniker": "StockOptimize\\View\\Registrar.xaml",
+              "ToolTip": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\Registrar.xaml",
+              "RelativeToolTip": "StockOptimize\\View\\Registrar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-09T07:32:36.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tablaDatosView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\tablaDatosView.xaml.cs",
+              "RelativeDocumentMoniker": "StockOptimize\\View\\tablaDatosView.xaml.cs",
+              "ToolTip": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\tablaDatosView.xaml.cs",
+              "RelativeToolTip": "StockOptimize\\View\\tablaDatosView.xaml.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAwwIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T03:41:44.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StockOptimize\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\MainWindow.xaml.cs",
+              "RelativeToolTip": "StockOptimize\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAcwIwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:00:15.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Registrar.cs",
+              "DocumentMoniker": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\Funciones\\Registrar.cs",
+              "RelativeDocumentMoniker": "StockOptimize\\View\\Funciones\\Registrar.cs",
+              "ToolTip": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\Funciones\\Registrar.cs",
+              "RelativeToolTip": "StockOptimize\\View\\Funciones\\Registrar.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwEsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:59:33.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EliminarTabla.cs",
+              "DocumentMoniker": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\Funciones\\EliminarTabla.cs",
+              "RelativeDocumentMoniker": "StockOptimize\\View\\Funciones\\EliminarTabla.cs",
+              "ToolTip": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\Funciones\\EliminarTabla.cs",
+              "RelativeToolTip": "StockOptimize\\View\\Funciones\\EliminarTabla.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:57:04.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CrearTabla.cs",
+              "DocumentMoniker": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\Funciones\\CrearTabla.cs",
+              "RelativeDocumentMoniker": "StockOptimize\\View\\Funciones\\CrearTabla.cs",
+              "ToolTip": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\Funciones\\CrearTabla.cs",
+              "RelativeToolTip": "StockOptimize\\View\\Funciones\\CrearTabla.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAiwHsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:38:09.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\Funciones\\Conexion.cs",
+              "RelativeDocumentMoniker": "StockOptimize\\View\\Funciones\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\Funciones\\Conexion.cs",
+              "RelativeToolTip": "StockOptimize\\View\\Funciones\\Conexion.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAiwIgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:54:09.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "tablaDatosView.xaml",
+              "DocumentMoniker": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\tablaDatosView.xaml",
+              "RelativeDocumentMoniker": "StockOptimize\\View\\tablaDatosView.xaml",
+              "ToolTip": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\tablaDatosView.xaml",
+              "RelativeToolTip": "StockOptimize\\View\\tablaDatosView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-09T06:37:34.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Variables_staticas.cs",
+              "DocumentMoniker": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\Funciones\\Variables_staticas.cs",
+              "RelativeDocumentMoniker": "StockOptimize\\View\\Funciones\\Variables_staticas.cs",
+              "ToolTip": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\Funciones\\Variables_staticas.cs",
+              "RelativeToolTip": "StockOptimize\\View\\Funciones\\Variables_staticas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:08:50.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "crearBasesView.xaml",
+              "DocumentMoniker": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\crearBasesView.xaml",
+              "RelativeDocumentMoniker": "StockOptimize\\View\\crearBasesView.xaml",
+              "ToolTip": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\View\\crearBasesView.xaml",
+              "RelativeToolTip": "StockOptimize\\View\\crearBasesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-09T07:34:23.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "StockOptimize\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Alvar\\OneDrive\\Escritorio\\Proyecto\\StockOptimize 1.2.4\\StockOptimize 1.2.4\\StockOptimize\\MainWindow.xaml",
+              "RelativeToolTip": "StockOptimize\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-09T04:00:12.875Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
