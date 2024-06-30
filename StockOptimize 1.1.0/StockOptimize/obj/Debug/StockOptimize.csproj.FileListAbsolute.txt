@@ -1,0 +1,17 @@
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\bin\Debug\StockOptimize.exe.config
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\bin\Debug\StockOptimize.exe
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\bin\Debug\StockOptimize.pdb
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\StockOptimize.csproj.AssemblyReference.cache
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\MainWindow.g.cs
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\App.g.cs
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\StockOptimize_MarkupCompile.cache
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\StockOptimize_MarkupCompile.lref
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\MainWindow.baml
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\StockOptimize.g.resources
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\StockOptimize.Properties.Resources.resources
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\StockOptimize.csproj.GenerateResource.cache
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\StockOptimize.csproj.CoreCompileInputs.cache
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\StockOptimize.exe
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\StockOptimize.pdb
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\View\crearBasesView.g.cs
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\View\crearBasesView.baml
