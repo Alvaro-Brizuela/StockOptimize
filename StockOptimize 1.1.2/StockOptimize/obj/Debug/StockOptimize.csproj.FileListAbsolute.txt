@@ -1,0 +1,98 @@
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\bin\Debug\StockOptimize.exe.config
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\bin\Debug\StockOptimize.exe
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\bin\Debug\StockOptimize.pdb
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\StockOptimize.csproj.AssemblyReference.cache
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\MainWindow.g.cs
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\App.g.cs
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\StockOptimize_MarkupCompile.cache
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\StockOptimize_MarkupCompile.lref
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\MainWindow.baml
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\StockOptimize.g.resources
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\StockOptimize.Properties.Resources.resources
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\StockOptimize.csproj.GenerateResource.cache
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\StockOptimize.csproj.CoreCompileInputs.cache
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\StockOptimize.exe
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\StockOptimize.pdb
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\View\crearBasesView.g.cs
+E:\Aplicaciones\VisualStudio\StockOptimize\StockOptimize\StockOptimize\obj\Debug\View\crearBasesView.baml
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\StockOptimize.exe.config
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\StockOptimize.exe
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\StockOptimize.pdb
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize.csproj.AssemblyReference.cache
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\MainWindow.g.cs
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\View\crearBasesView.g.cs
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\App.g.cs
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize_MarkupCompile.cache
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize_MarkupCompile.lref
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\MainWindow.baml
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\View\crearBasesView.baml
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize.g.resources
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize.Properties.Resources.resources
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize.csproj.GenerateResource.cache
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize.csproj.CoreCompileInputs.cache
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize.exe
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize.pdb
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\usuarios.db
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\EntityFramework.dll
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\EntityFramework.SqlServer.dll
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\System.Data.SQLite.dll
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\EntityFramework.xml
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\EntityFramework.SqlServer.xml
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\System.Data.SQLite.xml
+E:\Proyectos\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\StockOpt.2DD150BE.Up2Date
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\usuarios.db
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\StockOptimize.exe.config
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\StockOptimize.exe
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\StockOptimize.pdb
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\EntityFramework.dll
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\System.Data.SQLite.dll
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\EntityFramework.xml
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\bin\Debug\System.Data.SQLite.xml
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize.csproj.AssemblyReference.cache
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\MainWindow.g.cs
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\View\crearBasesView.g.cs
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\App.g.cs
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize_MarkupCompile.cache
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize_MarkupCompile.lref
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\MainWindow.baml
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\View\crearBasesView.baml
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize.g.resources
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize.Properties.Resources.resources
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize.csproj.GenerateResource.cache
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize.csproj.CoreCompileInputs.cache
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\StockOpt.2DD150BE.Up2Date
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize.exe
+D:\Proyectos\U\stockOptimice\historial\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize.pdb
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\bin\Debug\usuarios.db
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\bin\Debug\StockOptimize.exe.config
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\bin\Debug\StockOptimize.exe
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\bin\Debug\StockOptimize.pdb
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\bin\Debug\EntityFramework.dll
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\bin\Debug\System.Data.SQLite.dll
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\bin\Debug\EntityFramework.xml
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\bin\Debug\System.Data.SQLite.xml
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize.csproj.AssemblyReference.cache
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\obj\Debug\MainWindow.g.cs
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\obj\Debug\View\crearBasesView.g.cs
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\obj\Debug\App.g.cs
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize_MarkupCompile.cache
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize_MarkupCompile.lref
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\obj\Debug\MainWindow.baml
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\obj\Debug\View\crearBasesView.baml
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize.g.resources
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize.Properties.Resources.resources
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize.csproj.GenerateResource.cache
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize.csproj.CoreCompileInputs.cache
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\obj\Debug\StockOpt.2DD150BE.Up2Date
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize.exe
+D:\Proyectos\U\stockOptimice\actual\StockOptimize 1.1\StockOptimize\obj\Debug\StockOptimize.pdb
