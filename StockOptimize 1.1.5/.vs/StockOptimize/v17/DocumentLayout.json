@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyectos\\U\\stockOptimice\\actual\\StockOptimize 1.1.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|d:\\proyectos\\u\\stockoptimice\\actual\\stockoptimize 1.1.5\\stockoptimize\\view\\crearbasesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E34B227-45A0-4248-A0E1-0B206A193EB0}|StockOptimize\\StockOptimize.csproj|solutionrelative:stockoptimize\\view\\crearbasesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "crearBasesView.xaml",
+              "DocumentMoniker": "D:\\Proyectos\\U\\stockOptimice\\actual\\StockOptimize 1.1.5\\StockOptimize\\View\\crearBasesView.xaml",
+              "RelativeDocumentMoniker": "StockOptimize\\View\\crearBasesView.xaml",
+              "ToolTip": "D:\\Proyectos\\U\\stockOptimice\\actual\\StockOptimize 1.1.5\\StockOptimize\\View\\crearBasesView.xaml",
+              "RelativeToolTip": "StockOptimize\\View\\crearBasesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-06T09:09:30.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
